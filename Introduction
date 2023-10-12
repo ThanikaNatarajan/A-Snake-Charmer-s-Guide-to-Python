@@ -1,0 +1,29 @@
+Introduction to Python 
+
+Python was created by Guido van Rossum and released in 1991
+
+----------------------------------------------------------------------------
+1st Generation Language : 
+    - Binary Language 
+    - Low level language
+    - Only language understood by computer 
+2nd Generation Language :
+    - Assembly Language ( low level programming language that directly 
+                          communicates with a computers hardware )
+    - Mnemonic code 
+3rd Generation Langage : 
+    - High Level Language 
+    - Machine Independent 
+    - Interpreter or compiler converts 3rd GL -> 1st GL 
+(GL - Generation Language )
+----------------------------------------------------------------------------
+
+Python : 
+- High level programming language -> 3rd Generation language 
+- Interpreter language 
+- Simple and Easy
+- Case Sensitive 
+- Used widely in app development , web development , AI (Artificial Intelligence) and ML(Machine Learning)
+
+
+
