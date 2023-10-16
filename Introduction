@@ -25,5 +25,12 @@ Python :
 - Case Sensitive 
 - Used widely in app development , web development , AI (Artificial Intelligence) and ML(Machine Learning)
 
-
+The smallest unit in a python program is known as Token aka lexical unit
+Diff types of Token :
+eg : int(a) = 5
+int - keyword     -> words with special meaning , eg : int , if , for , float
+a   - identifier  -> A name used to identify a variable , function etc. 
+=   - operator    -> A symbol that performs an action or operation 
+5   - literal     -> They are constant values 
+()  - punctuators -> Symbols that help to construct a program and structure of a syntax
 
