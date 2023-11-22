@@ -38,7 +38,7 @@ def add_para(a,b):                                         # a,b are formal para
     print("Sum is :" , z)
 n1=int(input("Enter first number : "))
 n2=int(input("Enter second number : "))
-add(n1,n2)                                            # n1,n2 are actual parameters / actual arguments / arguments 
+add(n1,n2)                                                 # n1,n2 are actual parameters / actual arguments / arguments 
 
 
 # Q.4 Write a function to find the sum of 2 numbers ( with parameter , with return)
